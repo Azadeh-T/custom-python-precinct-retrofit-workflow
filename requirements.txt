@@ -1,0 +1,7 @@
+Python 3.x
+Rhino 8 GhPython CPython
+Grasshopper
+Ladybug Tools
+Dragonfly
+Honeybee
+UWG
