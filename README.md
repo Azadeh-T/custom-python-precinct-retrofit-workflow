@@ -31,5 +31,6 @@ The script exports:
 The repository provides the custom Python workflow used in the study. Some case-study input files, geometry, and simulation assets may not be publicly available due to project-specific or software-related constraints. Additional supporting data are available from the corresponding author upon reasonable request.
 
 ## Citation
-
-Please cite the associated manuscript and the archived repository release when using this code.
+The custom-developed Python workflow used in this study is archived on Zenodo as version v1.0.1:
+https://doi.org/10.5281/zenodo.21236489
+Please cite the archived repository release and the associated manuscript when using this code.
