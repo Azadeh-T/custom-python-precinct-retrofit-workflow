@@ -2,7 +2,7 @@
 
 This repository contains the custom-developed Python workflow used for the manuscript:
 
-“A co-assessment framework for balancing outdoor thermal stress and operational carbon emissions in precinct-scale retrofit under urban microclimate conditions”
+“A microclimate-aware assessment framework for balancing outdoor thermal stress and operational carbon emissions in precinct retrofitting”
 
 The workflow supports iterative precinct-scale retrofit assessment by orchestrating Latin Hypercube Sampling, model execution, and post-processing of operational CO₂e and PET-based outdoor thermal-stress indicators.
 
