@@ -2,9 +2,9 @@
 
 This repository contains the custom-developed Python workflow used for the manuscript:
 
-“A microclimate-aware assessment framework for balancing outdoor thermal stress and operational carbon emissions in precinct retrofitting”
+“An integrated microclimate-aware retrofit framework for balancing outdoor thermal stress and operational carbon emissions”
 
-The workflow supports iterative precinct-scale retrofit assessment by orchestrating Latin Hypercube Sampling, model execution, and post-processing of operational CO₂e and PET-based outdoor thermal-stress indicators.
+The Python code integrates Python scripting, Dragonfly-UWG, Ladybug, and Honeybee/EnergyPlus into a unified pipeline. It generates and evaluates retrofit solutions from the defined parameter spaces using Latin Hypercube Sampling method. It developed for Latin Hypercube Sampling, model orchestration and simulation execution for a user-defined number of samples.
 
 ## Purpose
 
@@ -31,6 +31,6 @@ The script exports:
 The repository provides the custom Python workflow used in the study. Some case-study input files, geometry, and simulation assets may not be publicly available due to project-specific or software-related constraints. Additional supporting data are available from the corresponding author upon reasonable request.
 
 ## Citation
-The custom-developed Python workflow used in this study is archived on Zenodo as version v1.0.1:
+The custom-developed Python workflow used in this study is archived on Zenodo as version v1.1.0:
 https://doi.org/10.5281/zenodo.21236489
 Please cite the archived repository release and the associated manuscript when using this code.
