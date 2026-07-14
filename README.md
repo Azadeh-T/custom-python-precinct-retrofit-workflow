@@ -4,7 +4,7 @@ This repository contains the custom-developed Python workflow used for the manus
 
 “An integrated microclimate-aware retrofit framework for balancing outdoor thermal stress and operational carbon emissions”
 
-The Python code integrates Python scripting, Dragonfly-UWG, Ladybug, and Honeybee/EnergyPlus into a unified pipeline. It generates and evaluates retrofit solutions from the defined parameter spaces using Latin Hypercube Sampling method. It developed for Latin Hypercube Sampling, model orchestration and simulation execution for a user-defined number of samples.
+The Python code integrates Python scripting, Dragonfly-UWG, Ladybug, and Honeybee/EnergyPlus into a unified pipeline. It generates and evaluates retrofit solutions from the defined parameter spaces using Latin Hypercube Sampling method. It was developed for Latin Hypercube Sampling, model orchestration and simulation execution for a user-defined number of samples.
 
 ## Purpose
 
