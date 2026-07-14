@@ -32,5 +32,5 @@ The repository provides the custom Python workflow used in the study. Some case-
 
 ## Citation
 The custom-developed Python workflow used in this study is archived on Zenodo as version v1.1.0:
-https://doi.org/10.5281/zenodo.21236489
+https://doi.org/10.5281/zenodo.21352776
 Please cite the archived repository release and the associated manuscript when using this code.
